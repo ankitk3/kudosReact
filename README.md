@@ -1,2 +1,0 @@
-# kudosReact
-Created with CodeSandbox
